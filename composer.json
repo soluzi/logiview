@@ -1,0 +1,15 @@
+{
+    "name": "soluzi/logiview",
+    "description": "A Laravel package for viewing logs",
+    "type": "library",
+    "require": {
+        "laravel/framework": "11.44.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Soluzi\\Logiview\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
